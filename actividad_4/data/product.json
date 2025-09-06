@@ -1,0 +1,14 @@
+[
+  {
+    "id": "f7ecd9cf-7c02-4573-9d0d-609c99b4451d",
+    "name": "Mate1",
+    "price": 3000,
+    "stock": 50
+  },
+  {
+    "id": "5d87921d-6f34-4f85-88ff-c94c26224d66",
+    "name": "Termo",
+    "price": 5000,
+    "stock": 20
+  }
+]
